@@ -22,7 +22,7 @@
 # O[EA.index('OrangeDrive')!=RO[n.index('Heather')]
 # RO[O.index('Elephant')]!=O[EA.index('MaxwellStreet')]
 
-#reference: http://pastebin.com/f41c6cbf8
+#reference: 
 #https://web.stanford.edu/~laurik/fsmbook/examples/Einstein'sPuzzle.html
 # Start of program-
 import itertools
